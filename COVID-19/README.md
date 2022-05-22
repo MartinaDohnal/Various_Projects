@@ -20,9 +20,8 @@ In this project I'm going to use COVID-19 dataset consisting of data-related cum
 - Python
 - Jupyter Notebook
 - NumPy, Pandas, Matplotlib, Plotly
-## Documentation
 
-[Jupyter Notebook](COVID-19/covid19_austria.ipynb)  
+## Documentation
 [Data Set](https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv)
 
 
