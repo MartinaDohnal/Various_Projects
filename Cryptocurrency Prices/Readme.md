@@ -2,4 +2,4 @@
 
 In this project I will analyze cryptocurrency prices such as Bitcoin (BTC), Ethereum (ETH, Litecoin (LTC), Cardano (ADA), and Ripple (XRP).<br>
 
-Datasets are "crypto_daily_prices" and "crypto_daily_returns" provided by the Instructor.
+Datasets are <i>crypto_daily_prices</i> and <i>crypto_daily_returns</i> provided by the Instructor.
