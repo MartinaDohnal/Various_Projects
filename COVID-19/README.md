@@ -1,9 +1,6 @@
 
-# Project Title
-
+## Project Title
 COVID19 Data Visualization Using Python
-
-
 
 ## Project Description
 In this project I'm going to use COVID-19 dataset consisting of data-related cumulative number of confirmed, recovered, and deaths cases in different countries around the Globe to answer these questions:   
