@@ -1,5 +1,3 @@
-Practicing SQL from the Coding With Mosh course
-
 ## Project Title
 Analysing <i>Customers</i> table with SQL
 
