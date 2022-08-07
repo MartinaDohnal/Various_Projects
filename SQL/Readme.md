@@ -8,5 +8,5 @@ In this project I'm going to use <i>Customers</i> dataset consisting of inventor
 - MySQL
 
 ## Documentation
-This dataset is from the <i>Complete SQL Mastery</i> Course (Code with Mosh)
+This dataset is from the <i>Complete SQL Mastery</i> Course (Code with Mosh).<br>
 [Data Set](https://github.com/MartinaDohnal/Various_Projects/blob/main/SQL/create-databases.sql)
