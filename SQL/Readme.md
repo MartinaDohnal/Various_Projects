@@ -10,4 +10,4 @@ In this project I'm going to use <i>Customers</i> dataset consisting of inventor
 - MySQL
 
 ## Documentation
-[Data Set](https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv)
+[Data Set](https://github.com/MartinaDohnal/Various_Projects/blob/main/SQL/create-databases.sql)
